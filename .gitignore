@@ -1,0 +1,13 @@
+*.iml
+.gradle
+.idea
+.DS_Store
+build
+captures
+.externalNativeBuild
+.cxx
+local.properties
+xcuserdata
+/.kotlin/sessions
+/.kotlin/metadata
+/.kotlin/errors/errors-1747503715524.log
